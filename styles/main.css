@@ -1,0 +1,48 @@
+@import url("Noto_Sans/NotoSans-Regular.ttf"); 
+@import url("Noto_Sans/NotoSans-Bold.ttf"); 
+
+
+
+
+body{
+  background-image: url(../images/sterren.jpg);
+  background-size: cover;
+	color: #21A4D5;
+	font-family: "NotoSans-Regular", sans-serif !important; 
+	margin: 0;
+	padding: 0;
+  border: 0;
+}
+
+.top{
+  margin-left: 10%;
+  font-family: "NotoSans-Bold";
+  
+}
+
+.blok{
+  margin-left: 10%;
+  max-width: 80%;
+  height:250pt ;
+  border-radius: 10%;
+  background-color: hsla(197, 82%, 15%, 0.4);
+  
+}
+
+
+
+  
+@media only screen and (min-width: 721px) and (max-width:1024px) {
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width:1280px) {
+
+ 
+
+}
+
+@media only screen and (min-width: 1281px) {
+
+}

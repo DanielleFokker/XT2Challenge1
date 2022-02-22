@@ -1,0 +1,2 @@
+// scripts worden later toegevoegd wanneer het kwartje eens wil vallen. Helaas te laat voor inlever moment 1,
+// maar op een moment wanneer ik wel weer nieuwe stof kan opnemen ga ik deze challange afmaken en verhamsteren. ADHD kickte in waardoor de challenge even niet lukte.
